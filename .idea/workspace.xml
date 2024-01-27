@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio." />
+    <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaCatorce/ProblemaCATORCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaCinco/ProblemaCINCO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaCuatro/ProblemaCUATRO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDieciNueve/ProblemaDIECINUEVE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDieciOcho/ProblemaDIECIOCHO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDieciSeis/ProblemaDIECISEIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDieciSiete/ProblemaDIECISIETE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDiez/ProblemaDIEZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDoce/ProblemaDOCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaDos/ProblemaDOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaNueve/ProblemaNUEVE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaOcho/ProblemaOCHO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaOnce/ProblemaONCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaQuince/ProblemaQUINCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaSeis/ProblemaSEIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaSiete/ProblemaSIETE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaTrece/ProblemaTRECE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaTres/ProblemaTRES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaUno/ProblemaUNO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeinte/ProblemaVEINTE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiCinco/ProblemaVEINTICINCO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiCuatro/ProblemaVEINTICUATRO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiDos/ProblemaVEINTIDOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiTres/ProblemaVEINTITRES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiUno/ProblemaVEINTIUNO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaCatorce/ProblemaCATORCETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaCinco/ProblemaCINCOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaCuatro/ProblemaCUATROTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDieciNueve/ProblemaDIECINUEVETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDieciOcho/ProblemaDIECIOCHOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDieciSeis/ProblemaDIECISEISTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDieciSiete/ProblemaDIECISIETETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDiez/ProblemaDIEZTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDoce/ProblemaDOCETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaDos/ProblemaDOSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaNueve/ProblemaNUEVETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaOcho/ProblemaOCHOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaOnce/ProblemaONCETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaQuince/ProblemaQUINCETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaSiete/ProblemaSIETETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaTrece/ProblemaTRECETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaTres/ProblemaTRESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaUno/ProblemaUNOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeinte/ProblemaVEINTETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeintiCinco/ProblemaVEINTICINCOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeintiCuatro/ProblemaVEINTICUATROTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeintiDos/ProblemaVEINTIDOSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeintiTres/ProblemaVEINTITRESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/ProblemaVeintiUno/ProblemaVEINTIUNOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioUno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,39 +67,96 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bTQDzhrv0eZhSLHBarB51ur8ta" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/tmp/programario_1/programario_uno/src/main/java/edu/upvictoria/fpoo/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemaCATORCETest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaCINCOTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemaDIECINUEVETest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaDIECIOCHOTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaDIECISEISTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemaDIECISIETETest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaDOSTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemaSEISTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaSIETETest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaUNoTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaVEINTICINCOTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaVEINTIDOSTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ProblemaVEINTIUNOTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.programario_uno [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.programario_uno [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.programario_uno [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/tmp/programario_1/programario_uno/src/main/java/edu/upvictoria/fpoo/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.upvictoria.fpoo.ProblemaVeintiCinco" />
+      <recent name="edu.upvictoria.fpoo.ProblemaVeintiCuatro" />
+      <recent name="edu.upvictoria.fpoo.ProblemaVeintiTres" />
+      <recent name="edu.upvictoria.fpoo.ProblemaVeintiDos" />
+      <recent name="edu.upvictoria.fpoo.ProblemaVeintiUno" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn exec:java" />
     </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +167,13 @@
       <option name="presentableId" value="Default" />
       <updated>1685063768396</updated>
       <workItem from="1685063769814" duration="1903000" />
+      <workItem from="1706236475569" duration="47000" />
+      <workItem from="1706236568556" duration="66000" />
+      <workItem from="1706238701519" duration="97000" />
+      <workItem from="1706276432780" duration="11396000" />
+      <workItem from="1706320914831" duration="23763000" />
+      <workItem from="1706377712012" duration="10000" />
+      <workItem from="1706377759297" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>
